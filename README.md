@@ -2,8 +2,12 @@
 
 ## 📷 Dashboard Preview
 
+[Dasboard Link](<p align="center">
+  <img src="dashboard.png" alt="CEO Executive Dashboard" width="950">
+</p>)
+
 <p align="center">
-  <img src="Images/dashboard.png" alt="CEO Executive Dashboard" width="950">
+  <img src="dashboard.png" alt="CEO Executive Dashboard" width="950">
 </p>
 
 ---
