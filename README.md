@@ -2,9 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-[Dasboard Link](<p align="center">
-  <img src="dashboard.png" alt="CEO Executive Dashboard" width="950">
-</p>)
+[Dasboard Link]([url](https://public.tableau.com/views/Book1_17848114764530/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 <p align="center">
   <img src="dashboard.png" alt="CEO Executive Dashboard" width="950">
